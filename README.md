@@ -1,4 +1,4 @@
-# Aliyu Ibrahim
+# Aliyu Garba
 
 ## Software Engineer building AI-powered applications, intelligent automation systems, and data-driven solutions.
 
