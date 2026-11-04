@@ -134,7 +134,7 @@ I write and explain beginner-friendly technical content around:
 - Technical SEO
 - Developer education
 
-**Writing profile:** `[Add technical writing or blog link]`
+**Technical content:** [TikTok — @aliyyu._](https://www.tiktok.com/@aliyyu._)
 
 ## Contact
 
