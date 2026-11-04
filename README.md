@@ -86,7 +86,7 @@ A resource-sharing platform where students can upload, preview, comment on, and 
 A research-oriented benchmark comparing **Physics-Informed Neural Networks (PINNs)**, **DeepONet**, and **Fourier Neural Operators (FNO)** for solving the one-dimensional viscous Burgers equation.
 
 **Technologies:** Python, PyTorch
-**Repository:** `[Add the repository link]`
+**[Repository and methodology](https://github.com/projectsbyag/burgers-ml-benchmark)**
 
 This is presented as a scientific ML project rather than a production application.
 
