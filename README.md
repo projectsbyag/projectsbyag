@@ -72,12 +72,6 @@ An educational resource-sharing platform for course management, assignments, dis
 
 **Technologies:** Flutter, Node.js, Express, MongoDB, REST APIs
 
-### MyTime
-
-An Android application involving live streaming, audio spaces, and WebRTC voice and video calling.
-
-**Repository:** `[Add the repository link]`
-
 ### ShareHub *(in development)*
 
 A resource-sharing platform where students can upload, preview, comment on, and manage educational resources.
