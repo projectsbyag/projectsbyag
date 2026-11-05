@@ -46,6 +46,7 @@ An AI-powered document processing application that extracts structured informati
 An AI graphics and carousel studio that generates design layouts from prompts and supports editable design elements, multi-slide compositions, and export workflows.
 
 **Technologies:** Next.js, React, TypeScript, Google Gen AI, Firebase, Tailwind CSS
+**[Live demo](https://blueprint-sx1l.onrender.com)**
 
 ### [Embeddable AI Voice Ordering](https://github.com/projectsbyag/Embeddable-AI-Voice-Ordering)
 
