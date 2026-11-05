@@ -41,7 +41,7 @@ An AI-powered document processing application that extracts structured informati
 
 **Technologies:** React, TypeScript, Vite, Express, Google Gemini, Tailwind CSS, Docker
 
-### [Blueprint](https://github.com/projectsbyag/Blueprint-AI)
+### [BP](https://github.com/projectsbyag/Blueprint-AI) — Blueprint AI Studio
 
 An AI graphics and carousel studio that generates design layouts from prompts and supports editable design elements, multi-slide compositions, and export workflows.
 
