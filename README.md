@@ -35,6 +35,16 @@ My toolkit reflects technologies I have used across projects and ongoing learnin
 
 The repositories below are implemented project work. Ongoing ideas and future builds are listed separately in **AI Automation & Intelligent Systems**.
 
+### [DA Job Market Pipeline](https://github.com/projectsbyag/da-job-market-pipeline)
+
+A STEM labor-market intelligence pipeline that collects job postings, extracts
+useful fields and skill signals, deduplicates results, and serves them through
+a FastAPI API and responsive dashboard. It covers Data & AI, Software,
+Cybersecurity, Cloud & DevOps, QA & Testing, Engineering and international
+remote roles.
+
+**Technologies:** Python, FastAPI, SQLAlchemy, SQLite, PostgreSQL, GitHub Actions
+
 ### [DocParser](https://github.com/projectsbyag/DocParser)
 
 An AI-powered document processing application that extracts structured information from invoices, receipts, resumes, and custom document formats. It helps turn unstructured text into reusable, database-ready records.
