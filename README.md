@@ -44,6 +44,7 @@ Cybersecurity, Cloud & DevOps, QA & Testing, Engineering and international
 remote roles.
 
 **Technologies:** Python, FastAPI, SQLAlchemy, SQLite, PostgreSQL, GitHub Actions
+**[Live demo](https://da-job-market-pipeline.onrender.com)**
 
 ### [DocParser](https://github.com/projectsbyag/DocParser)
 
