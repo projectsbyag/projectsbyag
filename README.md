@@ -29,8 +29,6 @@ My toolkit reflects technologies I have used across projects and ongoing learnin
 
 **Data and databases:** MySQL, PostgreSQL, MongoDB, Tableau, Power BI, Excel
 
-**Tools:** Git, GitHub, Docker, n8n, Google AI Studio, GitHub Codespaces
-
 ## Featured projects
 
 The repositories below are implemented project work. Ongoing ideas and future builds are listed separately in **AI Automation & Intelligent Systems**.
