@@ -1,8 +1,8 @@
 # Aliyu Garba
 
-## Software Engineer building AI-powered applications, intelligent automation systems, and data-driven solutions.
+## Building AI-powered applications, intelligent automation systems, and data-driven solutions.
 
-I am a **Software Engineer transitioning toward AI Engineering**, with a background in full-stack development, data analytics, and technical education. I build web applications, APIs, and AI-powered products, and I am particularly interested in intelligent agents, AI automation, applied machine learning, and scientific machine learning.
+I am a **Data Analyst with lots of software engineering experience**. I build web applications, APIs, and AI-powered products, with particular interest in AI automation and machine learning.
 
 My goal is to use software, data, and artificial intelligence to solve practical problems and make useful technology easier to understand and apply.
 
