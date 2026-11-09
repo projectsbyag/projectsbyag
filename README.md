@@ -87,7 +87,7 @@ An educational resource-sharing platform for course management, assignments, dis
 A resource-sharing platform where students can upload, preview, comment on, and manage educational resources.
 
 **Technologies:** Node.js, Express, MongoDB, HTML, CSS, JavaScript
-**Repository:** `[Add the repository link]`
+**Repository: [Link](https://github.com/projectsbyag/sharehub)**
 
 ## Scientific machine learning
 
@@ -102,14 +102,12 @@ This is presented as a scientific ML project rather than a production applicatio
 
 ## AI Automation & Intelligent Systems
 
-I am exploring practical automation systems that combine software engineering, data, and AI:
+I am exploring and open to collaborate on practical automation systems that combine software engineering, data, and AI:
 
 - AI Invoice & Receipt Automation
-- AI Email Triage & Response Agent
-- AI Lead Management & Follow-up System
 - AI Customer Support Automation
 - Automated Business Reporting Agent
-- AI Business Operations Automation Platform
+- AI Business Operations Automation Platform, e.t.c
 
 These are **project ideas and areas of exploration**, not completed projects. I am interested in building reliable systems that connect AI capabilities to useful business and operational workflows.
 
