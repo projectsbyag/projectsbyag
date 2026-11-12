@@ -33,11 +33,17 @@ My toolkit reflects technologies I have used across projects and ongoing learnin
 
 The repositories below are implemented project work. Ongoing ideas and future builds are listed separately in **AI Automation & Intelligent Systems**.
 
+### [Market Copy LLM](https://github.com/projectsbyag/MARKET-COPY-LLM)
+
+A self-improving marketing copywriter that tests pain, outcome, and contrarian headline angles, drafts landing-page copy, retrieves relevant swipe-file examples with embeddings and FAISS, and improves weak sections through simulated skeptical-customer reviews.
+
+**Technologies:** Python, PyTorch, Transformers, Qwen, BitsAndBytes, Sentence Transformers, FAISS, Gradio, FPDF2
+
 ### [DA Job Market Pipeline](https://github.com/projectsbyag/da-job-market-pipeline)
 
 A STEM labor-market intelligence pipeline that collects job postings, extracts
-useful fields and skill signals, deduplicates results, and serves them through
-a FastAPI API and responsive dashboard. It covers Data & AI, Software,
+useful fields and skill signals, deduplicates results, and serves them through a
+FastAPI API and responsive dashboard. It covers Data & AI, Software,
 Cybersecurity, Cloud & DevOps, QA & Testing, Engineering and international
 remote roles.
 
@@ -81,13 +87,6 @@ A full-stack MVP connecting Nigerian startups with investors and venture-capital
 An educational resource-sharing platform for course management, assignments, discussions, announcements, and multilingual learning support, including Hausa.
 
 **Technologies:** Flutter, Node.js, Express, MongoDB, REST APIs
-
-### ShareHub *(in development)*
-
-A resource-sharing platform where students can upload, preview, comment on, and manage educational resources.
-
-**Technologies:** Node.js, Express, MongoDB, HTML, CSS, JavaScript
-**Repository: [Link](https://github.com/projectsbyag/sharehub)**
 
 ## Scientific machine learning
 
