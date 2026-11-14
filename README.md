@@ -38,8 +38,10 @@ An automated STEM labor-market intelligence pipeline that collects daily job pos
 - **[Live Demo](https://da-job-market-pipeline.onrender.com)**
 
 ### [DocKit](https://github.com/projectsbyag/DocKit)
-A structured document extraction application that parses messy invoices, receipts, resumes, and custom formats into normalized, database-ready JSON records.
-- **Stack:** React, TypeScript, Vite, Express, Google Gemini, Tailwind CSS, Docker
+A full-stack, privacy-first PDF utility and document extraction suite for HR, finance, and operations teams. It handles compression, merging, splitting, format conversion, rotation, watermarking, and single or batch structured extraction—entirely locally, with no external AI API keys or subscriptions.
+- **Highlights:** 8 PDF/file utilities, invoice verification and duplicate alerts, HR job-description skill matching, sensitive-info redaction, and CSV/JSON batch reports for up to 25 files.
+- **Stack:** React 19, TypeScript, Vite, Tailwind CSS, Node.js, Express, Python 3, Ghostscript, ImageMagick, pdf-lib, JSZip, docx, unpdf, Mammoth, Docker
+- **[Live Demo](https://ais-pre-5rfp4bxp5ojk5pgexutbo7-1007597105193.europe-west2.run.app)**
 
 ### [Blueprint AI Studio](https://github.com/projectsbyag/Blueprint-AI)
 An AI graphics and educational carousel studio that generates structured visual layouts from prompts with editable canvas elements, multi-slide compositions, and export workflows.
