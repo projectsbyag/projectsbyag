@@ -1,152 +1,120 @@
 # Aliyu Garba
 
-## Building AI-powered applications, intelligent automation systems, and data-driven solutions.
+### Data Analyst & Full-Stack Software Engineer — Building Applied AI Systems, Intelligent Automation, and Data Pipelines.
 
-I am a **Data Analyst with lots of software engineering experience**. I build web applications, APIs, and AI-powered products, with particular interest in AI automation and machine learning.
+I am a **Data Analyst with a strong software engineering foundation**, building end-to-end data pipelines, REST APIs, and AI-powered applications. My work focuses on turning messy, unstructured information into reliable, decision-ready systems—combining SQL, Python, and modern full-stack tooling with retrieval-augmented generation (RAG) and agentic workflows.
 
-My goal is to use software, data, and artificial intelligence to solve practical problems and make useful technology easier to understand and apply.
+---
 
-## About me
+## About Me
 
-- BSc Computer Science graduate.
-- Experience developing full-stack web applications, REST APIs, and AI-enabled applications.
-- Interested in AI Engineering, AI automation, intelligent agents, and applied machine learning.
-- Experience with data analytics and scientific machine learning.
-- Graduate Assistant experience teaching programming and supervising student software projects.
-- Technical writer and educator who enjoys explaining software concepts to beginners.
+- **BSc Computer Science** graduate (First Class / Best Graduating Student, 4.84 CGPA).
+- Experienced in building full-stack web applications, automated ETL/scraping pipelines, and LLM-powered evaluation tools.
+- Focused on **Data Analytics, Applied AI Engineering, Intelligent Automation, and Scientific Machine Learning**.
+- Former **NYSC Graduate Assistant** at Baze University, teaching database systems and supervising undergraduate software engineering projects.
+- Technical writer and educator breaking down data, AI, and software engineering concepts for technical and non-technical audiences.
 
-## Technical skills
+---
 
-My toolkit reflects technologies I have used across projects and ongoing learning.
+## Technical Skills
 
-**Programming:** JavaScript, TypeScript, Python, SQL, HTML, CSS
+- **Programming & Querying:** Python, SQL, JavaScript, TypeScript, HTML, CSS
+- **AI & Machine Learning:** PyTorch, Hugging Face, Qwen (4-bit Quantization / BitsAndBytes), Sentence Transformers, FAISS, RAG, Agentic Workflows, Google Gemini API, scikit-learn, Scientific ML (PINNs, DeepONet, FNO)
+- **Data & Business Intelligence:** pandas, NumPy, SciPy, PostgreSQL, MySQL, MongoDB, SQLite, SQLAlchemy, Tableau, Power BI, Excel
+- **Backend & DevOps:** FastAPI, Node.js, Express, Flask, REST APIs, Docker, GitHub Actions
+- **Frontend & Interfaces:** React, Next.js, Tailwind CSS, Vite, Gradio, Flutter
 
-**Frontend:** React, Next.js, Tailwind CSS, Vite
+---
 
-**Backend:** Node.js, Express, FastAPI, REST APIs
+## Featured Projects
 
-**AI and machine learning:** Google Gemini API, PyTorch, Hugging Face, scikit-learn, pandas, NumPy, generative AI, retrieval-augmented generation (RAG), AI agents, AI automation, scientific machine learning
-
-**Data and databases:** MySQL, PostgreSQL, MongoDB, Tableau, Power BI, Excel
-
-## Featured projects
-
-The repositories below are implemented project work. Ongoing ideas and future builds are listed separately in **AI Automation & Intelligent Systems**.
+*The repositories below represent implemented systems. Active R&D directions are listed under **Current Focus & R&D**.*
 
 ### [Market Copy LLM](https://github.com/projectsbyag/MARKET-COPY-LLM)
-
-A self-improving marketing copywriter that tests pain, outcome, and contrarian headline angles, drafts landing-page copy, retrieves relevant swipe-file examples with embeddings and FAISS, and improves weak sections through simulated skeptical-customer reviews.
-
-**Technologies:** Python, PyTorch, Transformers, Qwen, BitsAndBytes, Sentence Transformers, FAISS, Gradio, FPDF2
+An autonomous, self-improving copywriting agent engineered to run within a 15 GB T4 GPU budget. Runs a 3-angle headline tournament, drafts PAS landing-page copy grounded in a FAISS swipe-file index, and refines weak paragraphs through a hybrid Python rule scanner and skeptical-customer critique loop with one-click PDF export.
+- **Stack:** Python, PyTorch, Transformers, Qwen2.5-7B (4-bit NF4), Sentence Transformers, FAISS, Gradio, FPDF2
 
 ### [DA Job Market Pipeline](https://github.com/projectsbyag/da-job-market-pipeline)
-
-A STEM labor-market intelligence pipeline that collects job postings, extracts
-useful fields and skill signals, deduplicates results, and serves them through a
-FastAPI API and responsive dashboard. It covers Data & AI, Software,
-Cybersecurity, Cloud & DevOps, QA & Testing, Engineering and international
-remote roles.
-
-**Technologies:** Python, FastAPI, SQLAlchemy, SQLite, PostgreSQL, GitHub Actions
-**[Live demo](https://da-job-market-pipeline.onrender.com)**
+An automated STEM labor-market intelligence pipeline that collects daily job postings across Data & AI, Software, Cybersecurity, Cloud & DevOps, QA, Engineering, and international remote roles—extracting skill signals, deduplicating records, and serving insights via a FastAPI backend and dashboard.
+- **Stack:** Python, FastAPI, SQLAlchemy, PostgreSQL, SQLite, GitHub Actions, Render
+- **[Live Demo](https://da-job-market-pipeline.onrender.com)**
 
 ### [DocParser](https://github.com/projectsbyag/DocParser)
+A structured document extraction application that parses messy invoices, receipts, resumes, and custom formats into normalized, database-ready JSON records. *(Currently migrating extraction inference from Gemini API to a custom QLoRA fine-tuned Qwen2.5 model.)*
+- **Stack:** React, TypeScript, Vite, Express, Google Gemini, Tailwind CSS, Docker
 
-An AI-powered document processing application that extracts structured information from invoices, receipts, resumes, and custom document formats. It helps turn unstructured text into reusable, database-ready records.
-
-**Technologies:** React, TypeScript, Vite, Express, Google Gemini, Tailwind CSS, Docker
-
-### [BP](https://github.com/projectsbyag/Blueprint-AI) — Blueprint AI Studio
-
-An AI graphics and carousel studio that generates design layouts from prompts and supports editable design elements, multi-slide compositions, and export workflows.
-
-**Technologies:** Next.js, React, TypeScript, Google Gen AI, Firebase, Tailwind CSS
-**[Live demo](https://blueprint-sx1l.onrender.com)**
+### [Blueprint AI Studio](https://github.com/projectsbyag/Blueprint-AI)
+An AI graphics and educational carousel studio that generates structured visual layouts from prompts with editable canvas elements, multi-slide compositions, and export workflows.
+- **Stack:** Next.js, React, TypeScript, Google Gen AI, Firebase, Tailwind CSS
+- **[Live Demo](https://blueprint-sx1l.onrender.com)**
 
 ### [Embeddable AI Voice Ordering](https://github.com/projectsbyag/Embeddable-AI-Voice-Ordering)
-
-An AI voice-ordering application designed around a pizza-ordering workflow and an embeddable interface.
-
-**Technologies:** Python, Flask, pandas, SciPy, NLTK, Docker
-
-### [Rental-System](https://github.com/projectsbyag/Rental-System)
-
-A peer-to-peer car-rental MVP for Nigeria with renter and host accounts, vehicle and KYC verification, bookings, simulated escrow records, disputes, and REST APIs.
-
-**Technologies:** Node.js, Express, MongoDB, Mongoose, JWT, bcrypt, Multer
-
-### [Startup-Connect](https://github.com/projectsbyag/startup-connect)
-
-A full-stack MVP connecting Nigerian startups with investors and venture-capital opportunities.
-
-**Technologies:** HTML, CSS, Tailwind CSS, Chart.js, Node.js, Express, MongoDB
-**[Live demo](https://startup-connect-one.vercel.app)**
+A conversational voice-ordering application built around a restaurant ordering workflow and an embeddable web widget.
+- **Stack:** Python, Flask, pandas, SciPy, NLTK, Docker
 
 ### [Virtual Campus](https://github.com/projectsbyag/Virtual-Campus)
+A mobile-first educational resource-sharing platform supporting course management, assignments, peer discussions, and multilingual accessibility (including Hausa).
+- **Stack:** Flutter, Node.js, Express, MongoDB, REST APIs
 
-An educational resource-sharing platform for course management, assignments, discussions, announcements, and multilingual learning support, including Hausa.
+### [Rental-System](https://github.com/projectsbyag/Rental-System)
+A peer-to-peer vehicle rental backend and MVP tailored for Nigeria, featuring host/renter onboarding, KYC verification, booking management, escrow tracking, and dispute workflows.
+- **Stack:** Node.js, Express, MongoDB, Mongoose, JWT, bcrypt, Multer
 
-**Technologies:** Flutter, Node.js, Express, MongoDB, REST APIs
+### [Startup-Connect](https://github.com/projectsbyag/startup-connect)
+A full-stack platform connecting Nigerian early-stage startups with investors and venture capital opportunities.
+- **Stack:** JavaScript, Tailwind CSS, Chart.js, Node.js, Express, MongoDB
+- **[Live Demo](https://startup-connect-one.vercel.app)**
 
-## Scientific machine learning
+---
 
-### Scientific Machine Learning Benchmark
+## Scientific Machine Learning
 
-A research-oriented benchmark comparing **Physics-Informed Neural Networks (PINNs)**, **DeepONet**, and **Fourier Neural Operators (FNO)** for solving the one-dimensional viscous Burgers equation.
+### [Burgers' Equation SciML Benchmark](https://github.com/projectsbyag/burgers-ml-benchmark)
+A comparative numerical modeling study benchmarking **Physics-Informed Neural Networks (PINNs)**, **Deep Operator Networks (DeepONet)**, and **Fourier Neural Operators (FNO)** on the 1D viscous Burgers' equation.
+- **Stack:** Python, PyTorch
 
-**Technologies:** Python, PyTorch
-**[Repository and methodology](https://github.com/projectsbyag/burgers-ml-benchmark)**
+---
 
-This is presented as a scientific ML project rather than a production application.
+## Current Focus & R&D
 
-## AI Automation & Intelligent Systems
+Active engineering explorations focused on model adaptation and production reliability:
+- **QLoRA Fine-Tuning & Evaluation:** Adapting compact open-source LLMs (`Qwen2.5-3B / 7B`) for strict JSON schema normalization and zero-hallucination document parsing.
+- **Business Workflow Automation:** Designing reliable agent harnesses for invoice processing, automated BI reporting, and customer operations.
 
-I am exploring and open to collaborate on practical automation systems that combine software engineering, data, and AI:
+---
 
-- AI Invoice & Receipt Automation
-- AI Customer Support Automation
-- Automated Business Reporting Agent
-- AI Business Operations Automation Platform, e.t.c
-
-These are **project ideas and areas of exploration**, not completed projects. I am interested in building reliable systems that connect AI capabilities to useful business and operational workflows.
-
-## Experience & education
+## Experience & Education
 
 ### Graduate Assistant (NYSC) — Baze University, Abuja
 **January 2026 – October 2026**
+- Taught relational database fundamentals, MySQL operations, and CRUD architecture.
+- Supervised final-year computing students through software design, implementation, and technical assessments.
 
-- Supervised final-year computing projects.
-- Guided students through software development and implementation.
-- Taught MySQL, database operations, and CRUD concepts.
-- Supported student project development and technical assessments.
+**Previous Experience:** Full-stack web development, technical instruction, and data analytics project delivery.  
+**Education:** BSc in Computer Science — Baze University, Abuja
 
-**Previous experience:** Software development and teaching, data analytics internship experience, and technical project development.
-
-**Education:** BSc Computer Science
+---
 
 ## Certifications
 
 - Google Data Analytics Professional Certificate
-- Google Digital Marketing Certificate
-- IBM Project Management certifications
-- Data analytics and project management training certificates
+- Google Digital Marketing & E-commerce Certificate
+- IBM Machine Learning & Data Analytics Certifications
+- IBM Project Management Certifications
 
-## Technical writing & developer education
+---
 
-I write and explain beginner-friendly technical content around:
+## Technical Writing & Developer Education
 
-- JavaScript, React, and APIs
-- Python and AI Engineering
-- Software development concepts
-- Technical SEO
-- Developer education
+I publish visual breakdowns and practical guides on **AI Engineering, Business Growth, Data Analytics, and Software Development**:
+- **TikTok:** [@aliyyu._](https://www.tiktok.com/@aliyyu._)
 
-**Technical content:** [TikTok — @aliyyu._](https://www.tiktok.com/@aliyyu._)
+---
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/aliyu-garba-a17830194)
-- [GitHub](https://github.com/projectsbyag)
-- [Email](mailto:aliyuib88@gmail.com)
+- **LinkedIn:** [linkedin.com/in/aliyu-g-a17830194](https://www.linkedin.com/in/aliyu-g-a17830194)
+- **GitHub:** [github.com/projectsbyag](https://github.com/projectsbyag)
+- **Email:** [aliyuib88@gmail.com](mailto:aliyuib88@gmail.com)
 
-I am open to opportunities involving software engineering, AI application development, intelligent automation, data, and developer education.
+*Open to opportunities in Data Analytics, Applied AI Engineering, Full-Stack Software Development, and Technical Education.*
