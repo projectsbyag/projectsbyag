@@ -37,7 +37,7 @@ An automated STEM labor-market intelligence pipeline that collects daily job pos
 - **Stack:** Python, FastAPI, SQLAlchemy, PostgreSQL, SQLite, GitHub Actions, Render
 - **[Live Demo](https://da-job-market-pipeline.onrender.com)**
 
-### [DocParser](https://github.com/projectsbyag/DocParser)
+### [DocKit](https://github.com/projectsbyag/DocKit)
 A structured document extraction application that parses messy invoices, receipts, resumes, and custom formats into normalized, database-ready JSON records.
 - **Stack:** React, TypeScript, Vite, Express, Google Gemini, Tailwind CSS, Docker
 
