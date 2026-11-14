@@ -18,9 +18,9 @@ I am a **Data Analyst with a strong software engineering foundation**, building 
 
 ## Technical Skills
 
-- **Programming & Querying:** Python, SQL, JavaScript, TypeScript, HTML, CSS
+- **Programming:** Python, SQL, JavaScript, TypeScript, HTML, CSS
 - **AI & Machine Learning:** PyTorch, Hugging Face, Qwen (4-bit Quantization / BitsAndBytes), Sentence Transformers, FAISS, RAG, Agentic Workflows, Google Gemini API, scikit-learn, Scientific ML (PINNs, DeepONet, FNO)
-- **Data & Business Intelligence:** pandas, NumPy, SciPy, PostgreSQL, MySQL, MongoDB, SQLite, SQLAlchemy, Tableau, Power BI, Excel
+- **Data:** pandas, NumPy, SciPy, PostgreSQL, MySQL, MongoDB, SQLite, SQLAlchemy, Tableau, Power BI, Excel
 - **Backend & DevOps:** FastAPI, Node.js, Express, Flask, REST APIs, Docker, GitHub Actions
 - **Frontend & Interfaces:** React, Next.js, Tailwind CSS, Vite, Gradio, Flutter
 
