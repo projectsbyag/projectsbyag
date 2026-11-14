@@ -28,8 +28,6 @@ I am a **Data Analyst with a strong software engineering foundation**, building 
 
 ## Featured Projects
 
-*The repositories below represent implemented systems. Active R&D directions are listed under **Current Focus & R&D**.*
-
 ### [Market Copy LLM](https://github.com/projectsbyag/MARKET-COPY-LLM)
 An autonomous, self-improving copywriting agent engineered to run within a 15 GB T4 GPU budget. Runs a 3-angle headline tournament, drafts PAS landing-page copy grounded in a FAISS swipe-file index, and refines weak paragraphs through a hybrid Python rule scanner and skeptical-customer critique loop with one-click PDF export.
 - **Stack:** Python, PyTorch, Transformers, Qwen2.5-7B (4-bit NF4), Sentence Transformers, FAISS, Gradio, FPDF2
