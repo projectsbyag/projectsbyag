@@ -38,7 +38,7 @@ An automated STEM labor-market intelligence pipeline that collects daily job pos
 - **[Live Demo](https://da-job-market-pipeline.onrender.com)**
 
 ### [DocParser](https://github.com/projectsbyag/DocParser)
-A structured document extraction application that parses messy invoices, receipts, resumes, and custom formats into normalized, database-ready JSON records. *(Currently migrating extraction inference from Gemini API to a custom QLoRA fine-tuned Qwen2.5 model.)*
+A structured document extraction application that parses messy invoices, receipts, resumes, and custom formats into normalized, database-ready JSON records.
 - **Stack:** React, TypeScript, Vite, Express, Google Gemini, Tailwind CSS, Docker
 
 ### [Blueprint AI Studio](https://github.com/projectsbyag/Blueprint-AI)
@@ -65,7 +65,7 @@ A comparative numerical modeling study benchmarking **Physics-Informed Neural Ne
 
 ---
 
-## Current Focus & R&D
+## Current Focus 
 
 Active engineering explorations focused on model adaptation and production reliability:
 - **QLoRA Fine-Tuning & Evaluation:** Adapting compact open-source LLMs (`Qwen2.5-3B / 7B`) for strict JSON schema normalization and zero-hallucination document parsing.
