@@ -48,7 +48,7 @@ An AI graphics and educational carousel studio that generates structured visual 
 
 ### [Virtual Campus](https://github.com/projectsbyag/Virtual-Campus)
 A mobile-first educational resource-sharing platform supporting course management, assignments, peer discussions, and multilingual accessibility (including Hausa).
-- **Stack:** Flutter, Node.js, Express, MongoDB, REST APIs
+- **Stack:** React (web),Flutter (mobile), Node.js, Express, MongoDB, REST APIs
 - **[Live Demo](https://ais-dev-lzathsmqt3u34ccrp5ivqe-1007597105193.europe-west2.run.app)**
 
 ### [Startup-Connect](https://github.com/projectsbyag/startup-connect)
