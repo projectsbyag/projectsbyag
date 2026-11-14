@@ -11,7 +11,7 @@ I am a **Data Analyst with a strong software engineering foundation**, building 
 - **BSc Computer Science** graduate (First Class / Best Graduating Student, 4.84 CGPA).
 - Experienced in building full-stack web applications, automated ETL/scraping pipelines, and LLM-powered evaluation tools.
 - Focused on **Data Analytics, Applied AI Engineering, Intelligent Automation, and Scientific Machine Learning**.
-- Former **NYSC Graduate Assistant** at Baze University, teaching database systems and supervising undergraduate software engineering projects.
+- Former **Graduate Assistant** at Baze University, teaching database systems and supervising undergraduate software engineering projects.
 - Technical writer and educator breaking down data, AI, and software engineering concepts for technical and non-technical audiences.
 
 ---
