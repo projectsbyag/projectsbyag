@@ -48,17 +48,9 @@ An AI graphics and educational carousel studio that generates structured visual 
 - **Stack:** Next.js, React, TypeScript, Google Gen AI, Firebase, Tailwind CSS
 - **[Live Demo](https://blueprint-sx1l.onrender.com)**
 
-### [Embeddable AI Voice Ordering](https://github.com/projectsbyag/Embeddable-AI-Voice-Ordering)
-A conversational voice-ordering application built around a restaurant ordering workflow and an embeddable web widget.
-- **Stack:** Python, Flask, pandas, SciPy, NLTK, Docker
-
 ### [Virtual Campus](https://github.com/projectsbyag/Virtual-Campus)
 A mobile-first educational resource-sharing platform supporting course management, assignments, peer discussions, and multilingual accessibility (including Hausa).
 - **Stack:** Flutter, Node.js, Express, MongoDB, REST APIs
-
-### [Rental-System](https://github.com/projectsbyag/Rental-System)
-A peer-to-peer vehicle rental backend and MVP tailored for Nigeria, featuring host/renter onboarding, KYC verification, booking management, escrow tracking, and dispute workflows.
-- **Stack:** Node.js, Express, MongoDB, Mongoose, JWT, bcrypt, Multer
 
 ### [Startup-Connect](https://github.com/projectsbyag/startup-connect)
 A full-stack platform connecting Nigerian early-stage startups with investors and venture capital opportunities.
