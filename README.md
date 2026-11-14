@@ -1,6 +1,6 @@
 # Aliyu Garba
 
-### Data Analyst & Full-Stack Software Engineer — Building Applied AI Systems, Intelligent Automation, and Data Pipelines.
+### Data Analyst | Applied AI Engineer — Building Applied AI Systems, Intelligent Automation, and Data Pipelines.
 
 I am a **Data Analyst with a strong software engineering foundation**, building end-to-end data pipelines, REST APIs, and AI-powered applications. My work focuses on turning messy, unstructured information into reliable, decision-ready systems—combining SQL, Python, and modern full-stack tooling with retrieval-augmented generation (RAG) and agentic workflows.
 
@@ -49,6 +49,7 @@ An AI graphics and educational carousel studio that generates structured visual 
 ### [Virtual Campus](https://github.com/projectsbyag/Virtual-Campus)
 A mobile-first educational resource-sharing platform supporting course management, assignments, peer discussions, and multilingual accessibility (including Hausa).
 - **Stack:** Flutter, Node.js, Express, MongoDB, REST APIs
+- **[Live Demo](https://ais-dev-lzathsmqt3u34ccrp5ivqe-1007597105193.europe-west2.run.app)**
 
 ### [Startup-Connect](https://github.com/projectsbyag/startup-connect)
 A full-stack platform connecting Nigerian early-stage startups with investors and venture capital opportunities.
