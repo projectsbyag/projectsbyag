@@ -29,7 +29,7 @@ I am a **Data Analyst with a strong software engineering foundation**, building 
 ## Featured Projects
 
 ### [Analyst_LLM](https://github.com/projectsbyag/analyst_llm)
-An autonomous data analyst studio that transforms messy CSV and Excel files into cleaned datasets, 10 interactive charts, and stakeholder-ready business insights. It combines QLoRA-fine-tuned Qwen2.5-Coder code generation with sandboxed execution, deterministic fallback cleaning, statistical analysis, and plain-English reporting.
+An autonomous data analyst studio that transforms messy CSV and Excel files into cleaned datasets, 10 interactive charts, and stakeholder-ready business insights. It combines QLoRA-fine-tuned Qwen2.5-Coder code generation with sandboxed execution, deterministic fallback cleaning, statistical analysis, and detialed reporting.
 - **Highlights:** Prompt-injection and schema defenses, self-healing data-cleaning pipelines, interactive analytics dashboard, and one-click Google Colab workflow.
 - **Stack:** Python, pandas, PyTorch, Qwen2.5-Coder-3B, QLoRA, Hugging Face, Gradio, Plotly
 - **[Live Demo](https://huggingface.co/spaces/projectsbyag/analyst-llm) · [Open in Colab](https://colab.research.google.com/github/projectsbyag/analyst_llm/blob/main/analyst_llm.ipynb)**
@@ -71,14 +71,6 @@ A full-stack platform connecting Nigerian early-stage startups with investors an
 ### [Burgers' Equation SciML Benchmark](https://github.com/projectsbyag/burgers-ml-benchmark)
 A comparative numerical modeling study benchmarking **Physics-Informed Neural Networks (PINNs)**, **Deep Operator Networks (DeepONet)**, and **Fourier Neural Operators (FNO)** on the 1D viscous Burgers' equation.
 - **Stack:** Python, PyTorch
-
----
-
-## Current Focus 
-
-Active engineering explorations focused on model adaptation and production reliability:
-- **QLoRA Fine-Tuning & Evaluation:** Adapting compact open-source LLMs (`Qwen2.5-3B / 7B`) for strict JSON schema normalization and zero-hallucination document parsing.
-- **Business Workflow Automation:** Designing reliable agent harnesses for invoice processing, automated BI reporting, and customer operations.
 
 ---
 
