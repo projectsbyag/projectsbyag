@@ -28,6 +28,12 @@ I am a **Data Analyst with a strong software engineering foundation**, building 
 
 ## Featured Projects
 
+### [Analyst_LLM](https://github.com/projectsbyag/analyst_llm)
+An autonomous data analyst studio that transforms messy CSV and Excel files into cleaned datasets, 10 interactive charts, and stakeholder-ready business insights. It combines QLoRA-fine-tuned Qwen2.5-Coder code generation with sandboxed execution, deterministic fallback cleaning, statistical analysis, and plain-English reporting.
+- **Highlights:** Prompt-injection and schema defenses, self-healing data-cleaning pipelines, interactive analytics dashboard, and one-click Google Colab workflow.
+- **Stack:** Python, pandas, PyTorch, Qwen2.5-Coder-3B, QLoRA, Hugging Face, Gradio, Plotly
+- **[Live Demo](https://huggingface.co/spaces/projectsbyag/analyst-llm) · [Open in Colab](https://colab.research.google.com/github/projectsbyag/analyst_llm/blob/main/analyst_llm.ipynb)**
+
 ### [Market Copy LLM](https://github.com/projectsbyag/MARKET-COPY-LLM)
 An autonomous, self-improving copywriting agent engineered to run within a 15 GB T4 GPU budget. Runs a 3-angle headline tournament, drafts PAS landing-page copy grounded in a FAISS swipe-file index, and refines weak paragraphs through a hybrid Python rule scanner and skeptical-customer critique loop with one-click PDF export.
 - **Stack:** Python, PyTorch, Transformers, Qwen2.5-7B (4-bit NF4), Sentence Transformers, FAISS, Gradio, FPDF2
@@ -106,7 +112,7 @@ I publish visual breakdowns and practical guides on **AI Engineering, Business G
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/aliyu-g-a17830194](https://www.linkedin.com/in/aliyu-g-a17830194)
+- **LinkedIn:** [linkedin.com/in/aliyu-g-a17830194](https://linkedin.com/in/aliyu-g-a17830194)
 - **GitHub:** [github.com/projectsbyag](https://github.com/projectsbyag)
 - **Email:** [aliyuib88@gmail.com](mailto:aliyuib88@gmail.com)
 
